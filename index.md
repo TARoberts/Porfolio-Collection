@@ -2,6 +2,10 @@
 
 Here can be found a collection of various pieces of personal, educational and eventually professional work. 
 
+### Social Media
+
+[Personal Twitter](https://twitter.com/IFlyDragons)
+
 ### Contents 
 
 [YouTube playlist of work](https://www.youtube.com/playlist?list=PLsT8UXjJti2k84J1OuAp-ilb48WAyA5gV)
