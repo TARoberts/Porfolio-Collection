@@ -6,6 +6,8 @@ Here can be found a collection of various pieces of personal, educational and ev
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+[YouTube Playlist of Work](https://www.youtube.com/playlist?list=PLsT8UXjJti2k84J1OuAp-ilb48WAyA5gV)
+
 ```markdown
 Syntax highlighted code block
 
@@ -21,5 +23,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[YouTube Playlist of Work](https://www.youtube.com/playlist?list=PLsT8UXjJti2k84J1OuAp-ilb48WAyA5gV) and ![Image](src)
 ```
