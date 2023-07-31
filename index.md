@@ -11,15 +11,18 @@ Here a collection of various pieces of personal, educational and eventually prof
 [YouTube playlist of video editing work (may contain duplicates)](https://youtube.com/playlist?list=PLsT8UXjJti2n28ronytUPk1iEy9ZyAije)
 
 ### Design Work, before University.
-
+This section contains a small amount of homebrew content I created to fill what I percieved as gaps in the currently available archetypes for 5th edition D&D between 2015 & 2018. These prototypes went through several revisions but unfortunately at the time I was unable to gather enough testing data to see whether they were fun enough to release. had I managed to test the classes I had, there was intention to release them onto the DM's guild as a package. 
 [Google Drive folder containing PDFs for 4 subclasses for 5th edition dungeons and dragons along with one full new class based on 4th edition content.](https://drive.google.com/drive/folders/1j732x1iidEbH2WZgzBHxVbLKfUsIe0WO?usp=sharing) 
 
 ### First Year Work
 
-[Basic roguelike made from scratch in Python as part of group work](https://github.com/UWEGames-GT101/pyasge-game-group-7) 
-[Back up demo video in case repo is deleted](https://www.youtube.com/watch?v=gTmZxZgWoII&list=PLsT8UXjJti2k84J1OuAp-ilb48WAyA5gV&index=6)
+[Demo video due to the repo being made unable to be forked and the repo being made private by UWE Bristol.](https://www.youtube.com/watch?v=gTmZxZgWoII&list=PLsT8UXjJti2k84J1OuAp-ilb48WAyA5gV&index=6)
+For the final submission for one of my first year modules, I worked as a part of a team with other course members to create a simple 2d game in a simple custom engine (PyASGE). For this project I co-ordinated our team's efforts whilst working on the level design, the actual creation of the levels in engine, collision and attempted to aid with A* pathfinding via manually creating the matricies which determined which tiles were available for players and NPCs to walk on. 
 
 [Demo video of 2d unity RPG designed for mobile devices](https://www.youtube.com/watch?v=IfC7bpkukTQ&list=PLsT8UXjJti2k84J1OuAp-ilb48WAyA5gV&index=7)
+Once again in first year, we were tasked with creating the concept and demo for a simple mobile game. The majority of the focus for this was on the game design documents required to be created which I unfortunately no long have access to but for this project I worked on all the programming aspects of the game whilst my partner created all of the art assets and helped design the world. This game is not available to play, as there is basically no gameplay and there was no repo at the time due to myself being the only one to work on the programming side of the project. 
+
+Finally in first year I was given several C++ tasks, focussing on using SFML to recreate iconic games. This collection of games marked the first time I had to make choices between realism and "game feel" with regards to physics. For Pong & Breakout, consistent and accurate "physics" were required to balance gameplay. However, for Angry Birds, adjustments were made to angles and "gravity" to create a better feeling game. All of these projects were created by myself alone with the aid of online tutorials and lecturers. Unfortunately the repos are unavailable at present due to restrictions from UWE Bristol. 
 
 ### Second Year Work
 [Drop Box link to Unreal build of TK Control recreation](https://www.dropbox.com/sh/aw1t48z2pntc14o/AACVjE3ZYn3R4Dn1LCZLAmj_a?dl=0)
