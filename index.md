@@ -39,9 +39,18 @@ Also during second year I was able to focus more on my prefered aspect of develo
 
 [Playthrough of level design project in Unreal 4](https://youtu.be/AONbg145O7Y?list=PLsT8UXjJti2k84J1OuAp-ilb48WAyA5gV) 
 
+Following on from this we were tasked with creating several gameplay features in Unity which cumulated in the creation of a short gameplay demo made in random teams where in all of our combined work should have been used to plug in together, showing how we had created sturdy independant systems which were easily transferable. This did not work as intended as one of my group members was very poor with their communications and performed a large merge which broke the final demo on the day of submission. However, the individual tasks and the effort put in to implement everything together formed the basis of my dissertation and made me much more asstertive when chasing up people to merge their work in the future. 
+
+[Link to my individual mini projects](https://github.com/TARoberts/GPP_Unity_Projects)
+
+[Link to the final merged group project](https://github.com/TARoberts/GamePlayProgrammingGroup)
+
+[Demo video for the final project](https://www.youtube.com/watch?v=0LFgKbAXJ5g)
+
 During second year we were also still focussed on good practise and development in C++. The first "welcome back" task we were given was to use a bespoke custom library (ASGE) to recreate mario level 1-1. This was a very quick task. 
 
 [Google Drive link to Recreation of Mario 1-1 in C++](https://drive.google.com/file/d/1y_VQtUVCHARXPTaGXt3pxocjQ-J0ClPG/view?usp=sharing)
+
 [back up video link](https://youtu.be/fxMvfY7Wnfw?list=PLsT8UXjJti2k84J1OuAp-ilb48WAyA5gV) 
 
 The final group project for the same module had us design and create a bespoke local multiplayer game. For this project we once again worked in the custom ASGE library. The full details on my part in the game are outlined in the attached video. I handled asset sourcing, audio, level design, class implementation, collision and state management for the game loop. 
@@ -57,17 +66,26 @@ The final and personally most important work I did in second year was the full d
 ### Third Year Work
 
 [Dissertation demonstration video](https://youtu.be/rIk_ljmREXo?list=PLsT8UXjJti2n28ronytUPk1iEy9ZyAije)
+
 [Dissertation project files](https://github.com/TARoberts/FinalYearProjectRPG)
+
 [Dissertation Paper: Difficulty in ARPGs](https://drive.google.com/file/d/17Asc-3HEZcsymRpYXpdqrptjBLSJdFKg/view?usp=sharing)
 
+
 [Collection of mini-projects from throughout the year](https://www.youtube.com/watch?v=AfVJmn4yAi4)
+
 [Mesh Destruction](https://github.com/TARoberts/AT_MeshDestruction)
+
 [Procedural City Generation](https://github.com/TARoberts/AT_Procedural_City)
+
 [Level Streaming/Open World in unreal 5](https://github.com/TARoberts/AT_Open_World_Unreal)
+
 
 Collection of Game Jams done throughout third year:
 [2 week games jam](https://github.com/TARoberts/Splatari-2600)
+
 [4 weeks games jam](https://github.com/TARoberts/CGD-NookJam-Sisphyean)
+
 [48 hours Global Games Jam](https://github.com/TARoberts/SisypheanGamesJam)
 
 [Cohort project "Burglar Battle" team Sisyphean](https://github.com/TARoberts/CGD-22-23-BurglarBattle/tree/Sisyphean-Dev)
