@@ -5,6 +5,7 @@ Here a collection of various pieces of personal, educational and eventually prof
 ## Social Media
 
 [Personal Twitter](https://twitter.com/IFlyDragons)
+[LinkedIn](https://www.linkedin.com/in/tom-roberts-956205282/)
 
 ## Contents 
 
@@ -99,9 +100,11 @@ For the Commercial Games Development model at UWE, we were required to split in 
 The first game was to be an Atari 2600 version of a modern game, with the game itself having to focus around "Flow". For this, we decided to demake Splatoon. On this project I handled the game loop and menus, along with sourcing and managing audio & visual assets. I also programmed the game audio and did bug fixing and polish.  
 [2 week games jam](https://github.com/TARoberts/Splatari-2600)
 
-Our second game was designed to run on the bare minimum of modern specs but had to be a 3d game this time. For this, we attempted to make a horror adventure game based on Thief and Dishonoured. In this project I once again handled menus, the game loop, scoring, game design, and audio with some minor roles in bug fixing, player abilities and art asset management. 
+Our second game was designed to run on the bare minimum of modern specs (no dedicated GPU, 3 gigabytes of RAM) but had to be a 3d game this time. For this, we attempted to make a horror adventure game based on Thief and Dishonoured. In this project I once again handled menus, the game loop, scoring, game design, and audio with some minor roles in bug fixing, player abilities and art asset management. 
 [4 weeks games jam](https://github.com/TARoberts/CGD-NookJam-Sisphyean)
- 
+
+The final games jam we undertook was as a part of the global games jam under the theme of "Roots" for this we had to focus on the quality of the experience, making the gameplay loop as smooth as possible and creating a plesant user experience. For this project I once again worked on the implementation of menus and audio and this time I also worked on the gameplay aspect for moving the on screen sprite (which I also created). 
 [48 hours Global Games Jam](https://github.com/TARoberts/SisypheanGamesJam)
- 
+
+For this project, the entire year group was put into a studio environment where we had to take one of the group's projects and expand it into a full local split screen multiplayer game. We opted to create a 2v2 PvP game where players had to steal treasure from a vault. For this, I once again lead my team who were focussed on gameplay for the players. We worked on the player controller, some level design, audio and implementation of other gameplay features such as scoring and power-ups. I personally sourced almost all of the audio files in the game whilst managing my groups' contributions and co-ordinating with other teams to understand their wants and needs from the player controller I also designed several final changes to the levels and implemented the background music manager for all scenes. Once the controller was locked in we moved to assisting in billboarding the level and bug testing/fixing.  
 [Cohort project "Burglar Battle" team Sisyphean](https://github.com/TARoberts/CGD-22-23-BurglarBattle/tree/Sisyphean-Dev)
