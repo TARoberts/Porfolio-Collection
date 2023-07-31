@@ -82,6 +82,7 @@ The final and personally most important work I did in second year was the full d
 
 
 Collection of Game Jams done throughout third year:
+
 [2 week games jam](https://github.com/TARoberts/Splatari-2600)
 
 [4 weeks games jam](https://github.com/TARoberts/CGD-NookJam-Sisphyean)
