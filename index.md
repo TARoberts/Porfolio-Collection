@@ -92,11 +92,14 @@ The final mini project  was set by a different lecturer to the first and require
 
 [Level Streaming/Open World in unreal 5](https://github.com/TARoberts/AT_Open_World_Unreal)
 
+Collection of Game Jams done throughout third year.
 
-Collection of Game Jams done throughout third year:
+For the Commercial Games Development model at UWE, we were required to split in to pseudo-random teams and develop several games from conception to playable in the form of Game Jams. For the majority of these projects I was once again team lead and lead designer whilst also managing bug fixes and co-ordinating development. 
 
+The first game was to be an Atari 2600 version of a modern game, with the game itself having to focus around "Flow". For this, we decided to demake Splatoon. On this project I handled the game loop and menus, along with sourcing and managing audio & visual assets. I also programmed the game audio and did bug fixing and polish.  
 [2 week games jam](https://github.com/TARoberts/Splatari-2600)
- 
+
+Our second game was designed to run on the bare minimum of modern specs but had to be a 3d game this time. For this, we attempted to make a horror adventure game based on Thief and Dishonoured. In this project I once again handled menus, the game loop, scoring, game design, and audio with some minor roles in bug fixing, player abilities and art asset management. 
 [4 weeks games jam](https://github.com/TARoberts/CGD-NookJam-Sisphyean)
  
 [48 hours Global Games Jam](https://github.com/TARoberts/SisypheanGamesJam)
