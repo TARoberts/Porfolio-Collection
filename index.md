@@ -56,7 +56,9 @@ During second year we were also still focussed on good practise and development 
 The final group project for the same module had us design and create a bespoke local multiplayer game. For this project we once again worked in the custom ASGE library. The full details on my part in the game are outlined in the attached video. I handled asset sourcing, audio, level design, class implementation, collision and state management for the game loop. 
 
 [Demo video for bespoke C++ game "Bear Station 14"](https://www.youtube.com/watch?v=A_uymov8JyQ) 
+
 [Repo](https://github.com/TARoberts/asgemovie-group-n-3)
+
 [Technical Breakdown](https://www.youtube.com/watch?v=NadkB0bchz8)
 
 The final and personally most important work I did in second year was the full design and creation of a board game. For this group project I was team leader as a result of being the lead designer for the game. I took the prompt of modern social issues and decided to create a game based on balancing life when you work from home versus when you are working in an office environment. For this, players take the role of students who have the option to attend lectures and other such classes in person or online. The game does not provide any strict benefits or drawbacks to either as research shows that there is no clear better choice to make, it is entirely dependant on the personal circumstances of the individual in question. For this game, we performed a vast amount of testing and iterative design and ended up creating a game that had almost exclusively good feedback on the actual gameplay and implementation of the themes. 
@@ -84,9 +86,9 @@ The final and personally most important work I did in second year was the full d
 Collection of Game Jams done throughout third year:
 
 [2 week games jam](https://github.com/TARoberts/Splatari-2600)
-
+ 
 [4 weeks games jam](https://github.com/TARoberts/CGD-NookJam-Sisphyean)
-
+ 
 [48 hours Global Games Jam](https://github.com/TARoberts/SisypheanGamesJam)
-
+ 
 [Cohort project "Burglar Battle" team Sisyphean](https://github.com/TARoberts/CGD-22-23-BurglarBattle/tree/Sisyphean-Dev)
