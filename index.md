@@ -67,18 +67,28 @@ The final and personally most important work I did in second year was the full d
 
 ### Third Year Work
 
+For my dissertation I looked at Difficulty In Action RPGs. This is a topic closed to my heart, as they are my favourite kind of video game and having the oppertunity to examine the evolution over time of difficulty in all video games was very enjoyable. The final project aspect was the creation of an extremely simple action RPG boss battle. Ultimately this scope of the project had pivoted over time resulting in a less satisfying final project, but the information I gathered and detailed was extremely useful in deepening my understanding of challenge as a part of video games as a whole. 
+
 [Dissertation demonstration video](https://youtu.be/rIk_ljmREXo?list=PLsT8UXjJti2n28ronytUPk1iEy9ZyAije)
 
 [Dissertation project files](https://github.com/TARoberts/FinalYearProjectRPG)
 
 [Dissertation Paper: Difficulty in ARPGs](https://drive.google.com/file/d/17Asc-3HEZcsymRpYXpdqrptjBLSJdFKg/view?usp=sharing)
 
+During my final year we were also once again presented with the oppertunity to undertake several different smaller projects as a part of getting to grips with modern technology and development techiques in video games. I chose to create two of these systems in Unity and one of them in Unreal 5, as it had just become available to use for university work. The following video breaks down each task and shows a quick demonstration. Each task had roughly five weeks of development time, with two dedicated days a week for feedback and long coding sessions. All of these proejcts were solo work. 
 
 [Collection of mini-projects from throughout the year](https://www.youtube.com/watch?v=AfVJmn4yAi4)
 
-[Mesh Destruction](https://github.com/TARoberts/AT_MeshDestruction)
+Procedural generation was the first task attempted and combined several different tutorials to generate the world, then the buildings before finally combining the two and changing the spawning of the buildings to be less random and adhere to sets of rules to create a realisitic looking modern city. 
 
 [Procedural City Generation](https://github.com/TARoberts/AT_Procedural_City)
+
+Mesh Destruction was the most technically challenging project due to the way in which unity handles mapping UVs and converting between object space and real space. A tutorial was followed to get basic random mesh slicing
+which was then built upon to allow users to control the slicing and to improve performance. For this project, pre-generated destruction techniques were disallowed. 
+
+[Mesh Destruction](https://github.com/TARoberts/AT_MeshDestruction)
+
+The final mini project  was set by a different lecturer to the first and required a demonstration and understanding of level streaming. I chose to do this in unreal 5 as the tools available were better and I wanted a chance to get to grips with a different engine. Unfortunately due to issues with the version of visual studio I had installed, I was forced to only use blueprints and pre-built tooks to acheive these effects. However, I did manage to understand the limits and benefits of level streaming regardless. 
 
 [Level Streaming/Open World in unreal 5](https://github.com/TARoberts/AT_Open_World_Unreal)
 
