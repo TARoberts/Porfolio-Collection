@@ -4,7 +4,6 @@ Here a collection of various pieces of personal, educational and eventually prof
 
 ## Social Media
 
-[Personal Twitter](https://twitter.com/IFlyDragons)
 [LinkedIn](https://www.linkedin.com/in/tom-roberts-956205282/)
 
 ## Contents 
