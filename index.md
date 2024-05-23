@@ -15,6 +15,12 @@ This section contains a small amount of homebrew content I created to fill what 
 
 [Google Drive folder containing PDFs for 4 subclasses for 5th edition dungeons and dragons along with one full new class based on 4th edition content.](https://drive.google.com/drive/folders/1j732x1iidEbH2WZgzBHxVbLKfUsIe0WO?usp=sharing) 
 
+### Post Graduation Personal Projects
+
+The following documents are sample Game Design Documents for the sorts of projects I would like to pursue in the future
+
+[Beyond The Blue Veil, a Rogue-like Classic Roleplaying Game Hybrid](https://docs.google.com/document/d/e/2PACX-1vS4T7jwaTYCNxwVPiyVJAVcWESR9fkxwUH2cqsWRsffYYLjZ7gqZB-CeB6l3HSL48TV83m9t5bYGXJ9/pub)
+
 ### First Year Work
 
 [Demo video due to the repo being made unable to be forked and the repo being made private by UWE Bristol.](https://www.youtube.com/watch?v=gTmZxZgWoII&list=PLsT8UXjJti2k84J1OuAp-ilb48WAyA5gV&index=6)
