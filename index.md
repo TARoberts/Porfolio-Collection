@@ -1,6 +1,6 @@
 # Welcome to Tom Roberts'development portfolio.
 
-Here a collection of various pieces of personal, educational and eventually professional work can be found.  
+Here a collection of various pieces of personal, educational and eventually professional work can be found. Presently undergoing rework due to changes of permissions on original branches! Apologies! 
 
 ## Social Media
 
@@ -63,8 +63,6 @@ The final group project for the same module had us design and create a bespoke l
 
 [Demo video for bespoke C++ game "Bear Station 14"](https://www.youtube.com/watch?v=A_uymov8JyQ) 
 
-[Repo](https://github.com/TARoberts/asgemovie-group-n-3)
-
 [Technical Breakdown](https://www.youtube.com/watch?v=NadkB0bchz8)
 
 The final and personally most important work I did in second year was the full design and creation of a board game. For this group project I was team leader as a result of being the lead designer for the game. I took the prompt of modern social issues and decided to create a game based on balancing life when you work from home versus when you are working in an office environment. For this, players take the role of students who have the option to attend lectures and other such classes in person or online. The game does not provide any strict benefits or drawbacks to either as research shows that there is no clear better choice to make, it is entirely dependant on the personal circumstances of the individual in question. For this game, we performed a vast amount of testing and iterative design and ended up creating a game that had almost exclusively good feedback on the actual gameplay and implementation of the themes. 
@@ -108,8 +106,8 @@ The first game was to be an Atari 2600 version of a modern game, with the game i
 Our second game was designed to run on the bare minimum of modern specs (no dedicated GPU, 3 gigabytes of RAM) but had to be a 3d game this time. For this, we attempted to make a horror adventure game based on Thief and Dishonoured. In this project I once again handled menus, the game loop, scoring, game design, and audio with some minor roles in bug fixing, player abilities and art asset management. 
 [4 weeks games jam](https://github.com/TARoberts/CGD-NookJam-Sisphyean)
 
-The final games jam we undertook was as a part of the global games jam under the theme of "Roots" for this we had to focus on the quality of the experience, making the gameplay loop as smooth as possible and creating a plesant user experience. For this project I once again worked on the implementation of menus and audio and this time I also worked on the gameplay aspect for moving the on screen sprite (which I also created). 
-[48 hours Global Games Jam](https://github.com/TARoberts/SisypheanGamesJam)
+The final games jam we undertook was as a part of the global games jam under the theme of "Roots" for this we had to focus on the quality of the experience, making the gameplay loop as smooth as possible and creating a plesant user experience. For this project I once again worked on the implementation of menus and audio and this time I also worked on the gameplay feel of moving the on screen sprite (which I also created). This is a simple mobile style game where you have to dodge hazards to complete the stage.
+[48 hours Global Games Jam "Apomixis" ](https://drive.google.com/file/d/1WfYzECuUcEiMp-DuZrmgjI_XnUPKwZQc/view?usp=drive_link)
 
 For this project, the entire year group was put into a studio environment where we had to take one of the group's projects and expand it into a full local split screen multiplayer game. We opted to create a 2v2 PvP game where players had to steal treasure from a vault. For this, I once again lead my team who were focussed on gameplay for the players. We worked on the player controller, some level design, audio and implementation of other gameplay features such as scoring and power-ups. I personally sourced almost all of the audio files in the game whilst managing my groups' contributions and co-ordinating with other teams to understand their wants and needs from the player controller I also designed several final changes to the levels and implemented the background music manager for all scenes. Once the controller was locked in we moved to assisting in billboarding the level and bug testing/fixing.  
-[Cohort project "Burglar Battle" team Sisyphean](https://github.com/TARoberts/CGD-22-23-BurglarBattle/tree/Sisyphean-Dev)
+[Cohort project "Burglar Battle" team Sisyphean Trailer](https://www.youtube.com/watch?v=07-G7WAixDA)
