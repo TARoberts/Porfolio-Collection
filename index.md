@@ -5,7 +5,7 @@ Here a collection of various pieces of personal, educational and eventually prof
 ## Social Media
 
 [LinkedIn](https://www.linkedin.com/in/tom-roberts-956205282/)
-
+Contact Email: Tom_A_Roberts@outlook.com
 ## Contents 
 
 [YouTube playlist of video editing work (may contain duplicates)](https://youtube.com/playlist?list=PLsT8UXjJti2n28ronytUPk1iEy9ZyAije)
