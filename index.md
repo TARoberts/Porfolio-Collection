@@ -24,6 +24,8 @@ The following documents are sample Game Design Documents for the sorts of projec
 
 [Beyond The Blue Veil, a Rogue-like Classic Roleplaying Game Hybrid](https://docs.google.com/document/d/e/2PACX-1vS4T7jwaTYCNxwVPiyVJAVcWESR9fkxwUH2cqsWRsffYYLjZ7gqZB-CeB6l3HSL48TV83m9t5bYGXJ9/pub)
 
+["Secret Lair - Delicious In Dungeon" - Custom cards for Magic the Gathering based on the TV show/manga of the same name.](https://docs.google.com/document/d/e/2PACX-1vTDqrNlZ1sCERmJTSe1Vll5hkMhywm4YXvfMtt3ljt9_fI6Aoao5k9UcMPskAfZ945ADK1Yuq2izP96/pub)
+
 ### First Year Work
 
 [Demo video due to the repo being made unable to be forked and the repo being made private by UWE Bristol.](https://www.youtube.com/watch?v=gTmZxZgWoII&list=PLsT8UXjJti2k84J1OuAp-ilb48WAyA5gV&index=6)
