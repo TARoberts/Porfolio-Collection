@@ -1,6 +1,6 @@
 # Welcome to Tom Roberts'development portfolio.
 
-Here a collection of various pieces of personal, educational and eventually professional work can be found. Presently undergoing rework due to changes of permissions on original branches! Apologies! 
+Here a collection of various pieces of personal, educational and professional work can be found. Presently undergoing rework due to changes of permissions on original branches! Apologies! 
 
 ## Social Media
 
@@ -10,6 +10,15 @@ Contact Email: Tom_A_Roberts@outlook.com
 ## Contents 
 
 [YouTube playlist of video editing work (may contain duplicates)](https://youtube.com/playlist?list=PLsT8UXjJti2n28ronytUPk1iEy9ZyAije)
+
+### Publically available works.
+
+During my time at Games Workshop I designed and developed Armies of Renown for White Dwarf 525, alongside appearing the battlereport of that edition. These armies are for the Cities of Sigmar army and provide rules for Lethis and Greywater Fastness.
+
+I also provided the initial designs for the Hedonites of Slaanesh and Sylvaneth Scourge of Aqshy rules which can be found here:
+[Sylvaneth Scourge of Aqshy](https://assets.warhammer-community.com/eng_30-06_warhammer_age_of_sigmar_scourge_of_aqshy_sylvaneth-cpwgaoyfkm-egebdmyunr.pdf)
+
+[Hedonites of Slaanesh Scourge of Aqshy](https://assets.warhammer-community.com/eng_01-07_warhammer_age_of_sigmar_scourge_of_aqshy_hedonites_of_slaanesh-s0cawjvuni-nkxp9xbfmu.pdf)
 
 ### Design Work, before University.
 This section contains a small amount of homebrew content I created to fill what I percieved as gaps in the currently available archetypes for 5th edition D&D between 2015 & 2018. These prototypes went through several revisions but unfortunately at the time I was unable to gather enough testing data to see whether they were fun enough to release. had I managed to test the classes I had, there was intention to release them onto the DM's guild as a package. 
