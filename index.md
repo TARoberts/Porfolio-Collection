@@ -16,6 +16,7 @@ Contact Email: Tom_A_Roberts@outlook.com
 During my time at Games Workshop I designed and developed Armies of Renown for White Dwarf 525, alongside appearing the battlereport of that edition. These armies are for the Cities of Sigmar army and provide rules for Lethis and Greywater Fastness.
 
 I also provided the initial designs for the Hedonites of Slaanesh and Sylvaneth Scourge of Aqshy rules which can be found here:
+
 [Sylvaneth Scourge of Aqshy](https://assets.warhammer-community.com/eng_30-06_warhammer_age_of_sigmar_scourge_of_aqshy_sylvaneth-cpwgaoyfkm-egebdmyunr.pdf)
 
 [Hedonites of Slaanesh Scourge of Aqshy](https://assets.warhammer-community.com/eng_01-07_warhammer_age_of_sigmar_scourge_of_aqshy_hedonites_of_slaanesh-s0cawjvuni-nkxp9xbfmu.pdf)
